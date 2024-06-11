@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "id":1234,
+            "nombre":"Mantencion a PC",
+            "precio":"$25.000",
+            "descripcion":"Pan baguette tostado, palta, tomate",
+            "imagen":"limpieza.jpg"
+        },{
+            "id":1235,
+            "nombre":"Armado de PC Gamer",
+            "precio":"$45.000",
+            "descripcion":"Pan baguette tostado, palta, tomate, chucrut, etc",
+            "imagen":"armar.jpg"
+        },    {
+            "id":1236,
+            "nombre":"Limpieza de Consolas",
+            "precio":"$25.500",
+            "descripcion":"Pan baguette tostado, palta, tomate",
+            "imagen":"consolas.jpg"
+        },    {
+            "id":1237,
+            "nombre":"Arreglo de mandos",
+            "precio":"$15.000",
+            "descripcion":"Pan baguette tostado, palta, tomate",
+            "imagen":"control.jpg"
+        }
+    ]
+    
+    }
